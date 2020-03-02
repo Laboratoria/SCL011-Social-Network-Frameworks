@@ -67,7 +67,7 @@ class Registry extends React.Component {
                     <input onChange={this.handleChange} type="password" name="password" id="password" className="password" />
                     <button onClick={this.handleClick} id="btnRegistry" className="btn-create-account">Crear cuenta</button>
                 </form>
-                <button>Google</button>
+
 
             </div >
         )
